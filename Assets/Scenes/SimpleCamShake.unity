@@ -430,6 +430,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CameraContainer
       objectReference: {fileID: 0}
+    - target: {fileID: 691999709830776502, guid: 89211f7b5c1a447e79bf55b1f969039a, type: 3}
+      propertyPath: duration
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 691999709830776502, guid: 89211f7b5c1a447e79bf55b1f969039a, type: 3}
+      propertyPath: magnitude
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89211f7b5c1a447e79bf55b1f969039a, type: 3}
 --- !u!1001 &2660583773788504761
